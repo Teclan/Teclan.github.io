@@ -2,6 +2,7 @@
 layout: post
 title: sonarqube代码质量审查
 date: 2018-01-31 20:46:25
+categories: 代码审查
 tags: [sonarqube,代码质量]
 ---
 

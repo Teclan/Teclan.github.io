@@ -2,6 +2,7 @@
 layout: post
 title: 命令行使用shadowsocks全局代理
 date: 2016-12-21 11:05:09
+categories: shadowsocks
 tags: [shadowsocks]
 ---
 

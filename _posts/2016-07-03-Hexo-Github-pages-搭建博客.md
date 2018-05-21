@@ -2,6 +2,7 @@
 layout: post
 title: Hexo Github pages 搭建博客
 date: 2016-07-03 16:01:11
+categories: Hexo
 tags: [Hexo,Github-pages]
 ---
 

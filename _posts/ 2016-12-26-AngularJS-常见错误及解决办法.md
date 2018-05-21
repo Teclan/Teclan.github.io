@@ -2,6 +2,7 @@
 layout: post
 title: AngularJS 常见错误及解决办法
 date: 2016-12-26 09:40:12
+categories: AngularJS
 tags: [AngularJS]
 ---
 

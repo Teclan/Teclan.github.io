@@ -2,6 +2,7 @@
 layout: post
 title: shadowsocks配置
 date: 2016-07-06 17:03:40
+categories: shadowsocks
 tags: [shadowsocks]
 ---
 

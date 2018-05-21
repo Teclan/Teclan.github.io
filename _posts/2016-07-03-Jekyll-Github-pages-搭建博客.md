@@ -2,6 +2,7 @@
 layout: post
 title: Jekyll Github pages 搭建博客
 date: 2016-07-03 17:04:37
+categories: Jekyll
 tags: [Jekyll,Github-pages]
 ---
 

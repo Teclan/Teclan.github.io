@@ -2,6 +2,7 @@
 layout: post
 title: ubuntu java 开发环境搭建
 date: 2016-07-12 10:20:13
+categories: 开发环境
 tags: [ubuntu,java,ssh,git]
 ---
 

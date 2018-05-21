@@ -2,6 +2,7 @@
 layout: post
 title: eclipse在Ubuntu16.04下不正常工作的问题
 date: 2016-07-04 10:51:36
+categories: 开发环境
 tags: [eclipse,ubuntu]
 ---
 
