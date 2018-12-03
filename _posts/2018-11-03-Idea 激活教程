@@ -1,0 +1,74 @@
+
+---
+layout: post
+title: Idea 激活教程
+date: 2018-11-03 15:16:45
+categories: Idea
+tags: [Idea]
+---
+
+
+# Idea 激活教程
+
+> 以下仅针对`IntelliJ IDEA 2018.3Ultimate` ，其他版本青参考文末链接。
+
+# 下载Idea
+
+可进入[官网](https://www.jetbrains.com/idea/download)或[百度云下载](https://pan.baidu.com/s/1XMgyjhQk8qynttx1pRrvEA)
+
+# 安装
+
+ 略
+
+# 激活
+
+假设你的安装路径为：`C:\Program Files\JetBrains\IntelliJ IDEA 2018.3`
+
+1. 将 `JetbrainsIdesCrack-3.4-release-enc.jar` 复制到你安装目录的`bin`目录下，
+即 `C:\Program Files\JetBrains\IntelliJ IDEA 2018.3\bin\JetbrainsIdesCrack-3.4-release-enc.jar`
+
+[点此下载`JetbrainsIdesCrack-3.4-release-enc.jar`](https://pan.baidu.com/s/1XMgyjhQk8qynttx1pRrvEA)
+
+2. 修改文件配置
+
+分别在`C:\Program Files\JetBrains\IntelliJ IDEA 2018.3\bin`目录下的`idea.exe.vmoptions`
+和`idea64.exe.vmoptions`文件末尾添加如下指令：
+
+```
+-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2018.3\bin\JetbrainsIdesCrack-3.4-release-enc.jar
+```
+
+3. 启动激活
+
+启动后，在`Activation Code`中添加如下代码
+
+```
+ThisCrackLicenseId-{
+"licenseId":"ThisCrackLicenseId",
+"licenseeName":"zhaosi",
+"assigneeName":"",
+"assigneeEmail":"zhaosi@163.com",
+"licenseRestriction":"For This Crack, Only Test! Please support genuine!!!",
+"checkConcurrentUse":false,
+"products":[
+{"code":"II","paidUpTo":"2099-12-31"},
+{"code":"DM","paidUpTo":"2099-12-31"},
+{"code":"AC","paidUpTo":"2099-12-31"},
+{"code":"RS0","paidUpTo":"2099-12-31"},
+{"code":"WS","paidUpTo":"2099-12-31"},
+{"code":"DPN","paidUpTo":"2099-12-31"},
+{"code":"RC","paidUpTo":"2099-12-31"},
+{"code":"PS","paidUpTo":"2099-12-31"},
+{"code":"DC","paidUpTo":"2099-12-31"},
+{"code":"RM","paidUpTo":"2099-12-31"},
+{"code":"CL","paidUpTo":"2099-12-31"},
+{"code":"PC","paidUpTo":"2099-12-31"}
+],
+"hash":"2911276/0",
+"gracePeriodDays":7,
+"autoProlongated":false}
+```
+
+# 参考资料
+
+[http://idea.lanyus.com/](http://idea.lanyus.com/)
